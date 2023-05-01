@@ -220,10 +220,10 @@ After the project kick off meetings, the data engineering team has given the dat
           
 # Overall Report 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Sudhanshu-Tomar/vedio_dashboard/blob/2348976508f0d66505308d321afa739fc3034c5c/Dashboard%20Vedio.mp4" type="video/mp4">
-</video>
 
+
+
+https://user-images.githubusercontent.com/119277783/235494846-9048e419-682a-4edd-bce1-f3f308a7f142.mp4
 
 
 
