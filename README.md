@@ -1,5 +1,6 @@
 # Business-Insights-360 
 
+![1_z8-MhqVp0wtdrnCVUWNKWw](https://user-images.githubusercontent.com/119277783/235495883-5675aba5-ceb8-4169-88f6-9addbb81388e.gif)
 
 ![business-analytics](https://user-images.githubusercontent.com/119277783/235479837-8904aa1b-1698-4182-9516-8ccc2afb164d.gif)
 
