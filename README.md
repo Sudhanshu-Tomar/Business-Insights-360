@@ -90,7 +90,11 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 
-# Questions to ask before starting with dashboard
+# Questions to ask before starting with dashboard 
+
+
+![thinking-hmm](https://user-images.githubusercontent.com/119277783/235492002-18221407-1f67-4468-a424-a5e775bad4ad.gif)
+
    
    - What is the objective of building this Power BI dashboard?
    - In what terms will the success of this project be measured?
@@ -109,6 +113,12 @@ After the project kick off meetings, the data engineering team has given the dat
 
 
 # Dataset Understanding.
+
+
+![74YE](https://user-images.githubusercontent.com/119277783/235492415-9ac87f85-a5a3-4883-a109-fcb18be6fd7d.gif)
+
+
+
    Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
   - Dimension table : It will have the static data like details of customer and products
@@ -177,7 +187,7 @@ After the project kick off meetings, the data engineering team has given the dat
 
 # Importing data into PowerBi
 
-     - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential . 
+  - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential . 
      
      
 # Data Model
@@ -210,7 +220,12 @@ After the project kick off meetings, the data engineering team has given the dat
           
 # Overall Report 
 
-
+ Power BI : https://app.powerbi.com/view?r=eyJrIjoiNWUwZTExYTMtMTYwOS00M2YzLWI2MmItOTk1YzU4ZjlmOTBhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+ 
+ NovyPro :  https://www.novypro.com/project/business-insights-360-8  
+ 
+ 
+ 
 
 
 
@@ -228,9 +243,15 @@ After the project kick off meetings, the data engineering team has given the dat
     - The importance of asking the right questions before starting a project, measuring success, and understanding stakeholders' expectations and fears.
     - Understanding the available data through dimension and fact tables in the dataset.
 
-  - These are some of the key learnings from the project.
+  - These are some of the key learnings from the project.  
+
+
+
+
+
           
 
+![animated-boy](https://user-images.githubusercontent.com/119277783/235491767-96ce052b-19de-432b-8a73-d91a37ab34de.gif)
 
 
 
